@@ -1,0 +1,17 @@
+{
+  "name": "angular.course",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Carlos Eduardo Papacidero <carlos.papacidero@venturus.org.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

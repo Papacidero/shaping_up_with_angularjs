@@ -1,5 +1,5 @@
 <h3>
-    {{book.name}}
+    <a href="#/details/{{$index}}">{{book.name | uppercase }}</a>
     <button type="button" class="btn btn-success btn-xs pull-right" data-toggle="modal" data-target="#myModal{{$index}}">
         Add review
     </button>
